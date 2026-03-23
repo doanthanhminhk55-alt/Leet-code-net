@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\LeetCode\\Runner\\Runner.csproj": {}
+    "D:\\LeetCode\\Runner\\Runner.csproj": {}
   },
   "projects": {
-    "d:\\LeetCode\\Runner\\Runner.csproj": {
+    "D:\\LeetCode\\Runner\\Runner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\LeetCode\\Runner\\Runner.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Runner\\Runner.csproj",
         "projectName": "Runner",
-        "projectPath": "d:\\LeetCode\\Runner\\Runner.csproj",
+        "projectPath": "D:\\LeetCode\\Runner\\Runner.csproj",
         "packagesPath": "C:\\Users\\minh.doant\\.nuget\\packages\\",
-        "outputPath": "d:\\LeetCode\\Runner\\obj\\",
+        "outputPath": "D:\\LeetCode\\Runner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minh.doant\\AppData\\Roaming\\NuGet\\NuGet.Config",
